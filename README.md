@@ -51,5 +51,3 @@ scikit-learn
 4.  Type `quit` to exit the application.
 
 ---
-
-**Would you like me to extract the requirements into a `requirements.txt` file content block for you?**
